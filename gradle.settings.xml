@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="serviceDirectoryPath" value="/opt/homebrew/Cellar/gradle/7.5.1" />
+  </component>
+</application>
