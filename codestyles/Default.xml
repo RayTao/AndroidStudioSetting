@@ -1,4 +1,9 @@
 <code_scheme name="Default" version="173">
+  <option name="DO_NOT_FORMAT">
+    <list>
+      <fileSet type="globPattern" pattern="**/generated/**" />
+    </list>
+  </option>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
